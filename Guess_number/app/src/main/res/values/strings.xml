@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+    <string name="app_name">Угадай число!</string>
+    <string name="easy">Easy_mode</string>
+    <string name="medium">Medium_mode</string>
+    <string name="hard">Hard_mode</string>
+    <string name="exit">Exit</string>
+    <string name="new_game">Угадай число! \n\n\n Выберите уровень сложности в меню</string>
+    <string name="behind">Недолёт!</string>
+    <string name="ahead">Перелёт!</string>
+    <string name="hit">Поздравляем! Вы победили!!! \n\n\n\n Чтобы играть заново, выберите пункт новой игры в меню</string>
+    <string name="input_button">Ввести значение</string>
+    <string name="play_more">Сыграть ещё раз</string>
+    <string name="try_to_guess">Попробуйте угадать число! \n Введите число от 0 до 100</string>
+    <string name="error_n">Неверный ввод! Введите число от 0 до 100</string>
+    <string name="error_n_2">Неверный ввод! Поле для числа пустое</string>
+    <string name="error_m">Неверный ввод! Выберите уровень сложности в меню</string>
+    <string name="num_error">Число не находится в диапазоне от 0 до 100 - Повторите ввод</string>
+
+</resources>
