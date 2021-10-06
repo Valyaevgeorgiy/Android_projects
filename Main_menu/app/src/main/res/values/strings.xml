@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Main_menu</string>
+    <string name="menu_1">Расширенное меню</string>
+    <string name="menu_2">Разное всякое такое</string>
+    <string name="txt_m">Здесь показан текст, тоже интересный такой</string>
+    <string name="add">add</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="copy">copy</string>
+    <string name="paste">paste</string>
+    <string name="exit">exit</string>
+    <string name="get">get</string>
+    <string name="set">set</string>
+    <string name="view">view</string>
+</resources>
