@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Context_menu</string>
+    <string name="txtv">Text color</string>
+    <string name="txtsz">Text size</string>
+
+</resources>
