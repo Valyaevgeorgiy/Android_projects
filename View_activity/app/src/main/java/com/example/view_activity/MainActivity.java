@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
 
     Button ok_btn, cnc_btn;
 
-    @SuppressLint("ResourceType")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         setContentView(R.layout.activity_main);
@@ -45,7 +44,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     View.OnClickListener oclbtn = new View.OnClickListener() {
-        @SuppressLint({"NonConstantResourceId", "SetTextI18n"})
         @Override
         public void onClick(View view) {
             switch (view.getId()) {

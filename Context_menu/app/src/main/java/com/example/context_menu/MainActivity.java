@@ -36,7 +36,6 @@ public class MainActivity extends AppCompatActivity {
         registerForContextMenu(tvSize);
     }
 
-    @SuppressLint("NonConstantResourceId")
     @Override
     public void onCreateContextMenu(ContextMenu menu, View v,
                                     ContextMenu.ContextMenuInfo menuInfo) {
