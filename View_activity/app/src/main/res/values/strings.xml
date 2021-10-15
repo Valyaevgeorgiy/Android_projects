@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">View_activity</string>
-    <string name="greetings">Hello from XML</string>
-    <string name="button">Update the TextView</string>
     <string name="hint">A name</string>
-    <string name="ok">OK</string>
-    <string name="cancel">Cancel</string>
+    <string name="main_txt">Basic Android elements</string>
+    <string name="main_btn">Update tv</string>
+    <string name="append_btn">Append in array</string>
+    <string name="reset_btn">Clear</string>
 </resources>
