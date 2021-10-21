@@ -1,7 +1,5 @@
 # Работы по дисциплине "Технологии разработки приложений для мобильных устройств"
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Valyaevgeorgiy&repo=Android_projects&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
-
 Описание соответствия между папками и номерами работ: 
 
 
