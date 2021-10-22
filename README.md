@@ -6,7 +6,7 @@
 Methodics_reports - Отчёты по выполнению работ в рамках изучения дисциплины и выполнения лабораторных работ.
 
 
-[MD0.1](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/My_first_application) - Установка Android Studio. "Hello, world!".
+[MD0.1](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/My_first_application) - Установка ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) Studio. "Hello, world!".
 
 
 [MD1.1](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts) - Представления элементов. 
