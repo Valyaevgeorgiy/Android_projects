@@ -28,3 +28,5 @@ Methodics_reports - Отчёты по выполнению работ в рам�
 
 
 [Health_test](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Health_test) - Промежуточная контрольная работа по созданию активностей (тест на переутомление).
+
+[Methodics_reports](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports) - Отчёты и методички по реализованным проектам дисциплины.
