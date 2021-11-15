@@ -6,7 +6,7 @@
 [Methodics_reports](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports) — Отчёты и методички по выполнению работ и реализованным проектам в рамках изучения дисциплины и выполнения лабораторных работ.
 
 
-[MD0.1](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/My_first_application) — Установка ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white). «Hello, world!».
+[MD0.1](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/My_first_application) — Установка ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) Studio. «Hello, world!».
 
 
 [MD1.1](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts) — Представления элементов. 
