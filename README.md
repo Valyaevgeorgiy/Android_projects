@@ -28,3 +28,7 @@
 
 
 [Health_test](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Health_test) — Промежуточная контрольная работа по созданию активностей (тест на переутомление).
+
+[MD2.1](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Doub_window) — Второе окно.
+
+[MD2.2](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt) — Фильтры намерений (основа + дополнительные задания по модулю).
