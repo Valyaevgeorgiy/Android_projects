@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intent_filters</string>
+    <string name="show_time">Show Time</string>
+    <string name="show_date">Show Date</string>
+    <string name="txt_third_activity">This is third Activity - Date Activity</string>
+    <string name="txt_second_activity">This is second Activity - Time Activity</string>
+    <string name="show_info">Show Info</string>
+    <string name="tv">TextView</string>
+    <string name="last_name">Last Name</string>
+    <string name="name">Name</string>
+    <string name="ok">OK</string>
+</resources>
