@@ -1,0 +1,12 @@
+com/example/intent_filters/BuildConfig.java
+ com.example.intent_filters.BuildConfig
+com/example/intent_filters/NameActivity.java
+ com.example.intent_filters.NameActivity
+com/example/intent_filters/MainActivity.java
+ com.example.intent_filters.MainActivity
+com/example/intent_filters/Activ_Date.java
+ com.example.intent_filters.Activ_Date
+com/example/intent_filters/Info.java
+ com.example.intent_filters.Info
+com/example/intent_filters/Activ_Time.java
+ com.example.intent_filters.Activ_Time
