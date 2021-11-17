@@ -1,0 +1,12 @@
+com/example/doub_window/BuildConfig.java
+ com.example.doub_window.BuildConfig
+com/example/doub_window/ActivityTwo.java
+ com.example.doub_window.ActivityTwo
+com/example/doub_window/ActivityFour.java
+ com.example.doub_window.ActivityFour
+com/example/doub_window/MainActivity.java
+ com.example.doub_window.MainActivity
+com/example/doub_window/ActivityName.java
+ com.example.doub_window.ActivityName
+com/example/doub_window/ActivityThree.java
+ com.example.doub_window.ActivityThree
