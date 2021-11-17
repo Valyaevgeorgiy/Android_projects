@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="80dp"
+        android:onClick="onClick"
+        android:id="@+id/btnColorEditor"
+        android:text="@string/choice_color">
+    </Button>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="80dp"
+        android:onClick="onClick"
+        android:id="@+id/btnAlignmentEditor"
+        android:text="@string/alignment_text">
+    </Button>
+
+    <TextView
+        android:id="@+id/tvEditorText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginVertical="80dp"
+        android:textSize="23sp"
+        android:text="@string/random_text">
+    </TextView>
+
+</LinearLayout>

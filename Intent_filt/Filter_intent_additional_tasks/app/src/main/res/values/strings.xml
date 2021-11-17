@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Filter_intent_additional_tasks</string>
+    <string name="home">Нажмите кнопку HOME</string>
+    <string name="start_camera">Запуск камеры</string>
+    <string name="random_text">Точно твой text</string>
+    <string name="alignment_text">выравнивание надписи</string>
+    <string name="choice_color">выбрать цвет</string>
+    <string name="choice_type_align">Выберите тип выравнивания надписи:</string>
+    <string name="ok_btn">OK</string>
+</resources>
