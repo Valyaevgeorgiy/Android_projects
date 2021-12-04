@@ -32,3 +32,6 @@
 [MD2.1](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Doub_window) — Второе окно.
 
 [MD2.2](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt) — Фильтры намерений ([основа](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt/Intent_filters) + [дополнительные задания](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt/Filter_intent_additional_tasks) по модулю).
+
+[MD2.3](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Images_work) — Работа с изображениями.
+
