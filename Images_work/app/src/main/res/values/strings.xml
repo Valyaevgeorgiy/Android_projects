@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Images_work</string>
+    <string name="welcome_to_do_list">Welcome to the «My planer of topics»</string>
+
+    <string name="important_fast_topics">Срочные и важные дела</string>
+    <string name="not_fast_impor_topics">Несрочные и важные дела</string>
+    <string name="fast_not_impor_topics">Срочные и неважные дела</string>
+    <string name="impor_not_fast_topics">Несрочные и неважные дела</string>
+
+    <string name="my_category">Моя категория</string>
+
+    <string name="input_topic">Введите ваш пункт:</string>
+
+    <string name="date_and_time">Дата и время</string>
+    <string name="adding_topic">Добавить дело</string>
+
+</resources>

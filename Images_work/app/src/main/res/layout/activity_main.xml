@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sea_green"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_to_do_list"
+
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:textColor="@color/bisquit"
+        android:textSize="22sp">
+    </TextView>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_marginTop="50dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_launcher_round">
+    </ImageView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnMyNotes_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_marginHorizontal="50dp"
+
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="10dp"
+
+            android:onClick="onClick"
+            android:text="@string/important_fast_topics">
+        </Button>
+
+        <Button
+            android:id="@+id/btnMyNotes_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_marginHorizontal="50dp"
+
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="10dp"
+
+            android:onClick="onClick"
+            android:text="@string/not_fast_impor_topics">
+        </Button>
+
+        <Button
+            android:id="@+id/btnMyNotes_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_marginHorizontal="50dp"
+
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="10dp"
+
+            android:onClick="onClick"
+            android:text="@string/fast_not_impor_topics">
+        </Button>
+
+        <Button
+            android:id="@+id/btnMyNotes_4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_marginHorizontal="50dp"
+
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="10dp"
+
+            android:onClick="onClick"
+            android:text="@string/impor_not_fast_topics">
+        </Button>
+
+    </LinearLayout>
+
+</LinearLayout>
