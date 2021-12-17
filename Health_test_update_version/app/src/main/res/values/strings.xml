@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Health_test</string>
+    <string name="finish_test_tv">7. Нажмите \"Ввод"\. Тест завершён!</string>
+    <string name="overwork">Переутомление (Ортостатическая проба)</string>
+    <string name="f_relax">Для прохождения теста необходимо иметь возможность лечь на 5 минут. Время проведения теста около 10-15 мин.</string>
+    <string name="str_test">Тест</string>
+    <string name="day_birth">Дата вашего рождения:</string>
+    <string name="gender">Пол:</string>
+    <string name="first_point">1. Сейчас нужно лечь на кровать и 5 минут пролежать на ней без движений.</string>
+    <string name="second_point">2. Теперь посчитать пульс в течение минуты.</string>
+    <string name="third_point">3. Введите пульс в положении лёжа:</string>
+    <string name="fourth_point">4. Встать и стоять почти без движений около 5 минут.</string>
+    <string name="five_point">5. И теперь посчитать пульс в течение минуты.</string>
+    <string name="six_point">6. Введите пульс в положении стоя:</string>
+    <string name="input_text">Ввод</string>
+
+    <string name="restart_menu">Начать тест заново</string>
+    <string name="exit_menu">Выйти</string>
+
+    <string name="test_results">Результаты теста</string>
+</resources>
