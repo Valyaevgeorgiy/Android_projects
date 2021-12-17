@@ -35,3 +35,6 @@
 
 [MD2.3](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Images_work) — Работа с изображениями.
 
+[Update_health_test](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Health_test_update_version) — проработанная версия контрольной работы про тест о переутомлении.
+
+
