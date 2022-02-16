@@ -37,4 +37,8 @@
 
 [Update_health_test](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Health_test_update_version) — проработанная версия контрольной работы про тест о переутомлении.
 
+[MD5.1](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Service_basic) — Жизненный цикл сервиса.
+
+
+
 
