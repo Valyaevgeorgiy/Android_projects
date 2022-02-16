@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/work_basic_service"
+        android:textSize="50px"
+        android:layout_marginTop="200px">
+    </TextView>
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200px"
+        android:text="@string/start_service"
+        android:onClick="StartService">
+    </Button>
+
+    <Button
+        android:id="@+id/btnStop"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100px"
+        android:layout_height="wrap_content"
+        android:text="@string/stop_service"
+        android:onClick="StopService">
+    </Button>
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="200px"
+        android:layout_height="wrap_content"
+        android:indeterminate="true">
+    </ProgressBar>
+
+</LinearLayout>
