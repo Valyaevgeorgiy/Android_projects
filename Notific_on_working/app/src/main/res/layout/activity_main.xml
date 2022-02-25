@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/work_notifications"
+        android:textSize="50px"
+        android:layout_marginTop="300px">
+    </TextView>
+
+    <Button
+        android:id="@+id/btnStartFgService"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/servicefg"
+        android:layout_marginTop="200px">
+    </Button>
+
+    <Button
+        android:id="@+id/btnClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/start_click"
+        android:layout_marginTop="100px">
+    </Button>
+
+</LinearLayout>
