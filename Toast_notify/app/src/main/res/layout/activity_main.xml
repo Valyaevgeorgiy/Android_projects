@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvToastInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="300px"
+        android:textSize="50px"
+        android:text="@string/toast_pop_up"
+        android:textColor="@color/purple_700">
+    </TextView>
+
+    <Button
+        android:id="@+id/btnToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/toast"
+        android:layout_gravity="center"
+        android:layout_marginTop="200px">
+    </Button>
+
+    <Button
+        android:id="@+id/btnImageToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/image_toast"
+        android:layout_gravity="center"
+        android:layout_marginTop="200px">
+    </Button>
+
+</LinearLayout>
