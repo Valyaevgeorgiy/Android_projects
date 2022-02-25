@@ -39,6 +39,10 @@
 
 [MD5.1](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Service_basic) — Жизненный цикл сервиса.
 
+[MD5.2](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Notific_on_working) — Работа с уведомлениями.
+
+[MD5.3](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Toast_notify) — Всплывающие уведомления.
+
 
 
 
