@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvPlayList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/starting_playlist"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp"
+        android:textSize="20sp"
+        android:textColor="@color/purple_500">
+    </TextView>
+
+    <Button
+        android:id="@+id/btnPlayNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        android:text="@string/next_track"
+        android:padding="10dp"
+        android:textSize="20sp">
+    </Button>
+
+    <Button
+        android:id="@+id/btnUnBind"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="@string/unbind_service"
+        android:textSize="20sp"
+        android:padding="12dp">
+    </Button>
+
+</LinearLayout>

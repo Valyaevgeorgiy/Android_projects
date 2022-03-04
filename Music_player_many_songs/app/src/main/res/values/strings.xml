@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music_player_many_songs</string>
+    <string name="app_desc">Music Player Mobile Service</string>
+    <string name="start_listening">Start listening</string>
+    <string name="stop_listening">Stop Listening</string>
+    <string name="go_to_playlist">Go to Playlist</string>
+    <string name="starting_playlist">Music Playlist is starting. Let\'s go relax!</string>
+    <string name="next_track">Next Track</string>
+    <string name="unbind_service">Unbind Service</string>
+</resources>
