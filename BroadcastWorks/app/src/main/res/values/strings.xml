@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastWorks</string>
+    <string name="broadcast_app">Broadcast Reciver App</string>
+    <string name="send_msg">Отправить сообщение</string>
+</resources>
