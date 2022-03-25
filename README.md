@@ -48,3 +48,5 @@
 [MD5.5](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/BroadcastWorks) — Работа с широковещательными сообщениями.
 
 [CD2.0](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Hello_world) — Подготовка среды. Hello world.
+
+[CD2.1](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Basic_styles) — Стили.
