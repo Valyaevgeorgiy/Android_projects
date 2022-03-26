@@ -50,3 +50,6 @@
 [CD2.0](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Hello_world) — Подготовка среды. Hello world.
 
 [CD2.1](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Basic_styles) — Стили.
+
+[CD2.2](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Flex_elements) — Гибкие компоненты.
+
