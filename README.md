@@ -53,3 +53,5 @@
 
 [CD2.2](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Flex_elements) — Гибкие компоненты.
 
+[CD2.3](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Main_comps) — Основные компоненты.
+
