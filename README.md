@@ -55,3 +55,6 @@
 
 [CD2.3](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Main_comps) — Основные компоненты.
 
+[CD2.4](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Univ_Navigation) — Универсальная навигация.
+
+
