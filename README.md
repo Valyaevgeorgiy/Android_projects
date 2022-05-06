@@ -57,4 +57,8 @@
 
 [CD2.4](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Univ_Navigation) — Универсальная навигация.
 
+[CD2.5](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Animations) — Анимация.
+
+[CD2.6](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Forms_reg) — Форма регистрации.
+
 
