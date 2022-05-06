@@ -1,7 +1,10 @@
 # Работы по дисциплине «Технологии разработки приложений для мобильных устройств»
+[![views](https://raw.githubusercontent.com/Valyaevgeorgiy/Android_projects/traffic/traffic-Android_projects/views.svg)](https://github.com/Valyaevgeorgiy/Android_projects/tree/traffic#-Android_projects)
+[![views per week](https://raw.githubusercontent.com/Valyaevgeorgiy/Android_projects/traffic/traffic-Android_projects/views_per_week.svg)](https://github.com/Valyaevgeorgiy/Android_projects/tree/traffic#-Android_projects)
+[![clones](https://raw.githubusercontent.com/Valyaevgeorgiy/Android_projects/traffic/traffic-Android_projects/clones.svg)](https://github.com/Valyaevgeorgiy/Android_projects/tree/traffic#-Android_projects)
+[![clones per week](https://raw.githubusercontent.com/Valyaevgeorgiy/Android_projects/traffic/traffic-Android_projects/clones_per_week.svg)](https://github.com/Valyaevgeorgiy/Android_projects/tree/traffic#-Android_projects)
 
 Описание соответствия между папками и номерами работ: 
-
 
 [Methodics_reports](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports) — Отчёты и методички по выполнению работ и реализованным проектам в рамках изучения дисциплины и выполнения лабораторных работ.
 
