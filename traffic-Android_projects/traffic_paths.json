@@ -2,14 +2,14 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 49,
+    "count": 46,
     "uniques": 8
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native",
     "title": "Android_projects/React-Native at main · Valyaevgeorgiy/Android_projects · Git...",
-    "count": 13,
-    "uniques": 4
+    "count": 12,
+    "uniques": 3
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/.github/workflow.yml",
@@ -36,8 +36,20 @@
     "uniques": 2
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Hello_world",
+    "title": "Android_projects/React-Native/Hello_world at main · Valyaevgeorgiy/Android_pr...",
+    "count": 4,
+    "uniques": 3
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/%D0%A1%D0%B5%D0%BC_%D0%BF%D0%BE_%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%BA%D0%B5__RN_reg_form.pdf",
     "title": "Android_projects/Сем_по_мобилке__RN_reg_form.pdf at main · Valyaevgeorgiy/And...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Hello_world/App.js",
+    "title": "Android_projects/App.js at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 3,
     "uniques": 2
   },
@@ -46,17 +58,5 @@
     "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects",
     "count": 3,
     "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Hello_world",
-    "title": "Android_projects/React-Native/Hello_world at main · Valyaevgeorgiy/Android_pr...",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Animations/README.md",
-    "title": "Android_projects/README.md at main · Valyaevgeorgiy/Android_projects",
-    "count": 3,
-    "uniques": 1
   }
 ]
