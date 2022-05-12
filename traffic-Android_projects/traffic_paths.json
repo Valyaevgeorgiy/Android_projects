@@ -2,14 +2,14 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 46,
+    "count": 47,
     "uniques": 8
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native",
     "title": "Android_projects/React-Native at main · Valyaevgeorgiy/Android_projects · Git...",
-    "count": 12,
-    "uniques": 3
+    "count": 17,
+    "uniques": 4
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/.github/workflow.yml",
@@ -30,15 +30,21 @@
     "uniques": 2
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Hello_world",
+    "title": "Android_projects/React-Native/Hello_world at main · Valyaevgeorgiy/Android_pr...",
+    "count": 7,
+    "uniques": 4
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Forms_reg",
     "title": "Android_projects/React-Native/Forms_reg at main · Valyaevgeorgiy/Android_proj...",
     "count": 6,
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Hello_world",
-    "title": "Android_projects/React-Native/Hello_world at main · Valyaevgeorgiy/Android_pr...",
-    "count": 4,
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Flex_elements",
+    "title": "Android_projects/React-Native/Flex_elements at main · Valyaevgeorgiy/Android_...",
+    "count": 3,
     "uniques": 3
   },
   {
@@ -50,12 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Hello_world/App.js",
     "title": "Android_projects/App.js at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
-    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects",
     "count": 3,
     "uniques": 2
   }
