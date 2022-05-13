@@ -64,4 +64,5 @@
 
 [CD2.6](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Forms_reg) — Форма регистрации.
 
+[CD2.7](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Altern_IDLE) — Установка среды разработки.
 
