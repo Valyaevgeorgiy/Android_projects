@@ -2,14 +2,20 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 50,
-    "uniques": 7
+    "count": 64,
+    "uniques": 9
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native",
     "title": "Android_projects/React-Native at main · Valyaevgeorgiy/Android_projects · Git...",
-    "count": 17,
+    "count": 19,
     "uniques": 3
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Animations",
+    "title": "Android_projects/React-Native/Animations at main · Valyaevgeorgiy/Android_pro...",
+    "count": 12,
+    "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/.github/workflow.yml",
@@ -18,20 +24,26 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Animations",
-    "title": "Android_projects/React-Native/Animations at main · Valyaevgeorgiy/Android_pro...",
-    "count": 9,
-    "uniques": 1
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github",
     "title": "Android_projects/.github at main · Valyaevgeorgiy/Android_projects",
-    "count": 8,
+    "count": 9,
     "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Forms_reg",
     "title": "Android_projects/React-Native/Forms_reg at main · Valyaevgeorgiy/Android_proj...",
+    "count": 7,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
+    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Altern_IDLE",
+    "title": "Android_projects/React-Native/Altern_IDLE at main · Valyaevgeorgiy/Android_pr...",
     "count": 6,
     "uniques": 2
   },
@@ -44,19 +56,7 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/%D0%A1%D0%B5%D0%BC_%D0%BF%D0%BE_%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%BA%D0%B5__RN_reg_form.pdf",
     "title": "Android_projects/Сем_по_мобилке__RN_reg_form.pdf at main · Valyaevgeorgiy/And...",
-    "count": 3,
+    "count": 4,
     "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
-    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Animations/README.md",
-    "title": "Android_projects/README.md at main · Valyaevgeorgiy/Android_projects",
-    "count": 3,
-    "uniques": 1
   }
 ]
