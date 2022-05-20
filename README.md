@@ -66,3 +66,5 @@
 
 [CD2.7](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Altern_IDLE) — Установка среды разработки.
 
+[CD2.8](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Moving_data) — Передача данных с формы.
+
