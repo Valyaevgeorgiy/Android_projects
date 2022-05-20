@@ -68,3 +68,5 @@
 
 [CD2.8](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Moving_data) — Передача данных с формы.
 
+[CD2.9](https://github.com/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android) — Компоненты для Android и iOS.
+
