@@ -2,36 +2,48 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 44,
+    "count": 48,
     "uniques": 9
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Forms_reg",
+    "title": "Android_projects/React-Native/Forms_reg at main · Valyaevgeorgiy/Android_proj...",
+    "count": 15,
+    "uniques": 4
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native",
     "title": "Android_projects/React-Native at main · Valyaevgeorgiy/Android_projects",
-    "count": 8,
-    "uniques": 3
+    "count": 10,
+    "uniques": 4
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Altern_IDLE",
     "title": "Android_projects/React-Native/Altern_IDLE at main · Valyaevgeorgiy/Android_pr...",
-    "count": 7,
-    "uniques": 3
+    "count": 10,
+    "uniques": 4
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Moving_data",
     "title": "Android_projects/React-Native/Moving_data at main · Valyaevgeorgiy/Android_pr...",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
-    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects",
-    "count": 5,
-    "uniques": 1
+    "count": 10,
+    "uniques": 3
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android",
     "title": "Android_projects/React-Native/Compo_iOS_Android at main · Valyaevgeorgiy/Andr...",
+    "count": 7,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Forms_reg/screens",
+    "title": "Android_projects/React-Native/Forms_reg/screens at main · Valyaevgeorgiy/Andr...",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
+    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects",
     "count": 5,
     "uniques": 1
   },
@@ -45,18 +57,6 @@
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/%D0%A1%D0%B5%D0%BC_%D0%BF%D0%BE_%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%BA%D0%B5__RN_moving_data.pdf",
     "title": "Android_projects/Сем_по_мобилке__RN_moving_data.pdf at main · Valyaevgeorgiy/...",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Forms_reg",
-    "title": "Android_projects/React-Native/Forms_reg at main · Valyaevgeorgiy/Android_proj...",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/README.md",
-    "title": "Android_projects/README.md at main · Valyaevgeorgiy/Android_projects",
-    "count": 3,
     "uniques": 1
   }
 ]
