@@ -2,8 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 30,
-    "uniques": 8
+    "count": 31,
+    "uniques": 9
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Forms_reg",
@@ -14,12 +14,18 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native",
     "title": "Android_projects/React-Native at main · Valyaevgeorgiy/Android_projects",
-    "count": 9,
+    "count": 13,
     "uniques": 5
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Altern_IDLE",
     "title": "Android_projects/React-Native/Altern_IDLE at main · Valyaevgeorgiy/Android_pr...",
+    "count": 7,
+    "uniques": 4
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Moving_data",
+    "title": "Android_projects/React-Native/Moving_data at main · Valyaevgeorgiy/Android_pr...",
     "count": 6,
     "uniques": 4
   },
@@ -28,12 +34,6 @@
     "title": "Android_projects/App.js at main · Valyaevgeorgiy/Android_projects",
     "count": 6,
     "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Moving_data",
-    "title": "Android_projects/React-Native/Moving_data at main · Valyaevgeorgiy/Android_pr...",
-    "count": 5,
-    "uniques": 3
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Flex_elements",
@@ -48,15 +48,15 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android",
-    "title": "Android_projects/React-Native/Compo_iOS_Android at main · Valyaevgeorgiy/Andr...",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Basic_styles",
+    "title": "Android_projects/React-Native/Basic_styles at main · Valyaevgeorgiy/Android_p...",
     "count": 4,
     "uniques": 3
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Forms_reg/screens/Login.js",
-    "title": "Android_projects/Login.js at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 3,
-    "uniques": 2
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android",
+    "title": "Android_projects/React-Native/Compo_iOS_Android at main · Valyaevgeorgiy/Andr...",
+    "count": 4,
+    "uniques": 3
   }
 ]
