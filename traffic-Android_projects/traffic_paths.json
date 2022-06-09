@@ -2,20 +2,14 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 12,
-    "uniques": 5
+    "count": 13,
+    "uniques": 6
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native",
     "title": "Android_projects/React-Native at main · Valyaevgeorgiy/Android_projects",
-    "count": 9,
+    "count": 8,
     "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Compo_iOS_Android/App.js",
-    "title": "Android_projects/App.js at main · Valyaevgeorgiy/Android_projects",
-    "count": 5,
-    "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Altern_IDLE",
@@ -57,6 +51,12 @@
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Hello_world",
     "title": "Android_projects/React-Native/Hello_world at main · Valyaevgeorgiy/Android_pr...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/f715658095559ca85e6fc945b0a6c4f6646f4896/React-Native/Compo_iOS_Android/README.md",
+    "title": "Android_projects/README.md at f715658095559ca85e6fc945b0a6c4f6646f4896 · Valy...",
+    "count": 1,
     "uniques": 1
   }
 ]
