@@ -2,12 +2,42 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
+    "count": 8,
+    "uniques": 6
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android",
+    "title": "Android_projects/React-Native/Compo_iOS_Android at main · Valyaevgeorgiy/Andr...",
     "count": 5,
-    "uniques": 5
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Clicker/app/src/main/java/com/example/clicker/MainActivity.java",
     "title": "Android_projects/MainActivity.java at main · Valyaevgeorgiy/Android_projects",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Compo_iOS_Android/App.js",
+    "title": "Android_projects/App.js at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Compo_iOS_Android/app.json",
+    "title": "Android_projects/app.json at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Compo_iOS_Android/babel.config.js",
+    "title": "Android_projects/babel.config.js at main · Valyaevgeorgiy/Android_projects · ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Compo_iOS_Android/package-lock.json",
+    "title": "Android_projects/package-lock.json at main · Valyaevgeorgiy/Android_projects ...",
     "count": 1,
     "uniques": 1
   },
@@ -26,18 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src",
     "title": "Android_projects/Clicker/app/src at main · Valyaevgeorgiy/Android_projects",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src/main",
-    "title": "Android_projects/Clicker/app/src/main at main · Valyaevgeorgiy/Android_projects",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src/main/java/com/example/clicker",
-    "title": "Android_projects/Clicker/app/src/main/java/com/example/clicker at main · Valy...",
     "count": 1,
     "uniques": 1
   }
