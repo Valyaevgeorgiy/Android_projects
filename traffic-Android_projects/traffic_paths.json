@@ -2,8 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 5,
-    "uniques": 3
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android",
@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/commits/main",
+    "title": "Commits · Valyaevgeorgiy/Android_projects",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
     "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app",
     "title": "Android_projects/Clicker/app at main · Valyaevgeorgiy/Android_projects",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src",
-    "title": "Android_projects/Clicker/app/src at main · Valyaevgeorgiy/Android_projects",
     "count": 1,
     "uniques": 1
   }
