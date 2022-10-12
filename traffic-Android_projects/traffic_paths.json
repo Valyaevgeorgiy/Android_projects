@@ -2,42 +2,30 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 6,
-    "uniques": 3
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Main_comps",
-    "title": "Android_projects/React-Native/Main_comps at main · Valyaevgeorgiy/Android_pro...",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Main_comps/App.js",
-    "title": "Android_projects/App.js at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Main_comps/assets",
-    "title": "Android_projects/React-Native/Main_comps/assets at main · Valyaevgeorgiy/Andr...",
     "count": 3,
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Univ_Navigation/App.js",
-    "title": "Android_projects/App.js at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 2,
-    "uniques": 2
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Main_comps",
+    "title": "Android_projects/React-Native/Main_comps at main · Valyaevgeorgiy/Android_pro...",
+    "count": 3,
+    "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Univ_Navigation",
-    "title": "Android_projects/React-Native/Univ_Navigation at main · Valyaevgeorgiy/Androi...",
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Main_comps/App.js",
+    "title": "Android_projects/App.js at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Animations",
     "title": "Android_projects/React-Native/Animations at main · Valyaevgeorgiy/Android_pro...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Main_comps/assets",
+    "title": "Android_projects/React-Native/Main_comps/assets at main · Valyaevgeorgiy/Andr...",
     "count": 2,
     "uniques": 1
   },
@@ -56,6 +44,18 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Main_comps/babel.config.js",
     "title": "Android_projects/babel.config.js at main · Valyaevgeorgiy/Android_projects · ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Univ_Navigation/App.js",
+    "title": "Android_projects/App.js at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native",
+    "title": "Android_projects/React-Native at main · Valyaevgeorgiy/Android_projects · Git...",
     "count": 1,
     "uniques": 1
   }
