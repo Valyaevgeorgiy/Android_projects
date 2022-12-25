@@ -2,8 +2,26 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 2,
-    "uniques": 2
+    "count": 7,
+    "uniques": 3
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/traffic",
+    "title": "Valyaevgeorgiy/Android_projects at traffic",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/actions",
+    "title": "Actions · Valyaevgeorgiy/Android_projects",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/LICENSE",
+    "title": "Android_projects/LICENSE at main · Valyaevgeorgiy/Android_projects",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/branches",
@@ -12,8 +30,32 @@
     "uniques": 1
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/commits",
+    "title": "Commits · Valyaevgeorgiy/Android_projects",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/commits/main",
     "title": "Commits · Valyaevgeorgiy/Android_projects",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
+    "title": "Android_projects/My_first_application at main · Valyaevgeorgiy/Android_projects",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application/app",
+    "title": "Android_projects/My_first_application/app at main · Valyaevgeorgiy/Android_pr...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application/app/src",
+    "title": "Android_projects/My_first_application/app/src at main · Valyaevgeorgiy/Androi...",
     "count": 1,
     "uniques": 1
   }
