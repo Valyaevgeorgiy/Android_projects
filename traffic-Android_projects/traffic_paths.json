@@ -24,19 +24,13 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/branches",
-    "title": "Branches · Valyaevgeorgiy/Android_projects",
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/README.md",
+    "title": "Android_projects/README.md at main · Valyaevgeorgiy/Android_projects",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/commits",
-    "title": "Commits · Valyaevgeorgiy/Android_projects",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/commits/main",
     "title": "Commits · Valyaevgeorgiy/Android_projects",
     "count": 1,
     "uniques": 1
@@ -56,6 +50,12 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application/app/src",
     "title": "Android_projects/My_first_application/app/src at main · Valyaevgeorgiy/Androi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application/app/src/main",
+    "title": "Android_projects/My_first_application/app/src/main at main · Valyaevgeorgiy/A...",
     "count": 1,
     "uniques": 1
   }
