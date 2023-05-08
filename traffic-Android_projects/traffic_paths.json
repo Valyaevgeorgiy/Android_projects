@@ -1,13 +1,61 @@
 [
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src",
+    "title": "Android_projects/View_activity/app/src at main · Valyaevgeorgiy/Android_proje...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 1,
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app",
+    "title": "Android_projects/View_activity/app at main · Valyaevgeorgiy/Android_projects ...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src/main",
+    "title": "Android_projects/View_activity/app/src/main at main · Valyaevgeorgiy/Android_...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src/test/java/com/example/view_activity",
+    "title": "Android_projects/View_activity/app/src/test/java/com/example/view_activity at...",
+    "count": 2,
     "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Health_test",
     "title": "Android_projects/Health_test at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity",
+    "title": "Android_projects/View_activity at main · Valyaevgeorgiy/Android_projects · Gi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src/androidTest",
+    "title": "Android_projects/View_activity/app/src/androidTest at main · Valyaevgeorgiy/A...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src/androidTest/java/com/example",
+    "title": "Android_projects/View_activity/app/src/androidTest/java/com/example at main ·...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src/androidTest/java/com/example/view_activity",
+    "title": "Android_projects/View_activity/app/src/androidTest/java/com/example/view_acti...",
     "count": 1,
     "uniques": 1
   }
