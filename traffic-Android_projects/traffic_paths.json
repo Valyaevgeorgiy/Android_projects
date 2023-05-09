@@ -6,12 +6,6 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects",
-    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app",
     "title": "Android_projects/View_activity/app at main · Valyaevgeorgiy/Android_projects ...",
     "count": 2,
@@ -30,8 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Health_test",
-    "title": "Android_projects/Health_test at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "path": "/Valyaevgeorgiy/Android_projects",
+    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +50,12 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src/androidTest/java/com/example/view_activity",
     "title": "Android_projects/View_activity/app/src/androidTest/java/com/example/view_acti...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src/main/res",
+    "title": "Android_projects/View_activity/app/src/main/res at main · Valyaevgeorgiy/Andr...",
     "count": 1,
     "uniques": 1
   }
