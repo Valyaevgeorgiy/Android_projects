@@ -1,5 +1,11 @@
 [
   {
+    "path": "/Valyaevgeorgiy/Android_projects",
+    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
+    "count": 4,
+    "uniques": 2
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src",
     "title": "Android_projects/View_activity/app/src at main · Valyaevgeorgiy/Android_proje...",
     "count": 4,
@@ -24,8 +30,20 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects",
-    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt",
+    "title": "Android_projects/Intent_filt at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt/Filter_intent_additional_tasks",
+    "title": "Android_projects/Intent_filt/Filter_intent_additional_tasks at main · Valyaev...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
+    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects ...",
     "count": 1,
     "uniques": 1
   },
@@ -38,24 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src/androidTest",
     "title": "Android_projects/View_activity/app/src/androidTest at main · Valyaevgeorgiy/A...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src/androidTest/java/com/example",
-    "title": "Android_projects/View_activity/app/src/androidTest/java/com/example at main ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src/androidTest/java/com/example/view_activity",
-    "title": "Android_projects/View_activity/app/src/androidTest/java/com/example/view_acti...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity/app/src/main/res",
-    "title": "Android_projects/View_activity/app/src/main/res at main · Valyaevgeorgiy/Andr...",
     "count": 1,
     "uniques": 1
   }
