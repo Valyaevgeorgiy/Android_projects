@@ -1,14 +1,62 @@
 [
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Doub_window",
-    "title": "Android_projects/Doub_window at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 2,
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
+    "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects · Git...",
+    "count": 10,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src",
+    "title": "Android_projects/Guess_number/app/src at main · Valyaevgeorgiy/Android_projec...",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app",
+    "title": "Android_projects/Guess_number/app at main · Valyaevgeorgiy/Android_projects ·...",
+    "count": 5,
     "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 1,
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src/androidTest",
+    "title": "Android_projects/Guess_number/app/src/androidTest at main · Valyaevgeorgiy/An...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src/androidTest/java",
+    "title": "Android_projects/Guess_number/app/src/androidTest/java at main · Valyaevgeorg...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src/androidTest/java/com",
+    "title": "Android_projects/Guess_number/app/src/androidTest/java/com at main · Valyaevg...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src/androidTest/java/com/example",
+    "title": "Android_projects/Guess_number/app/src/androidTest/java/com/example at main · ...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src/androidTest/java/com/example/guess_number",
+    "title": "Android_projects/Guess_number/app/src/androidTest/java/com/example/guess_numb...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Doub_window",
+    "title": "Android_projects/Doub_window at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 2,
     "uniques": 1
   }
 ]
