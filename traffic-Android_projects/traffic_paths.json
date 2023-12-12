@@ -2,31 +2,19 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Android_projects/ at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 39,
-    "uniques": 9
+    "count": 33,
+    "uniques": 8
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Guess_number/app/src/androidTest/java/com/example/guess_number/ExampleInstrumentedTest.java",
     "title": "Android_projects/Guess_number/app/src/androidTest/java/com/example/guess_numb...",
-    "count": 32,
-    "uniques": 8
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
-    "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects · Git...",
-    "count": 4,
-    "uniques": 2
+    "count": 26,
+    "uniques": 7
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
     "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blame/main/Guess_number/app/src/androidTest/java/com/example/guess_number/ExampleInstrumentedTest.java",
-    "title": "Blaming Android_projects/Guess_number/app/src/androidTest/java/com/example/gu...",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -36,20 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app",
-    "title": "Android_projects/Guess_number/app at main · Valyaevgeorgiy/Android_projects ·...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src",
-    "title": "Android_projects/Guess_number/app/src at main · Valyaevgeorgiy/Android_projec...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src/androidTest/java/com/example/guess_number",
-    "title": "Android_projects/Guess_number/app/src/androidTest/java/com/example/guess_numb...",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
+    "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects",
     "count": 2,
     "uniques": 1
   },
