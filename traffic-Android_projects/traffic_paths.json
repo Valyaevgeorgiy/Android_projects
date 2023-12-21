@@ -8,7 +8,55 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 21,
-    "uniques": 8
+    "count": 25,
+    "uniques": 10
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt",
+    "title": "Android_projects/Intent_filt at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt/Filter_intent_additional_tasks/app/src/main/java/com/example/filter_intent_additional_tasks",
+    "title": "Android_projects/Intent_filt/Filter_intent_additional_tasks/app/src/main/java...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Intent_filt/Filter_intent_additional_tasks/app/src/main/java/com/example/filter_intent_additional_tasks/Action_systemActivity.java",
+    "title": "Android_projects/Intent_filt/Filter_intent_additional_tasks/app/src/main/java...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Intent_filt/Filter_intent_additional_tasks/app/src/main/java/com/example/filter_intent_additional_tasks/Camera_showActivity.java",
+    "title": "Android_projects/Intent_filt/Filter_intent_additional_tasks/app/src/main/java...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt/Filter_intent_additional_tasks",
+    "title": "Android_projects/Intent_filt/Filter_intent_additional_tasks at main · Valyaev...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt/Filter_intent_additional_tasks/app",
+    "title": "Android_projects/Intent_filt/Filter_intent_additional_tasks/app at main · Val...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt/Filter_intent_additional_tasks/app/src",
+    "title": "Android_projects/Intent_filt/Filter_intent_additional_tasks/app/src at main ·...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt/Filter_intent_additional_tasks/app/src/main",
+    "title": "Android_projects/Intent_filt/Filter_intent_additional_tasks/app/src/main at m...",
+    "count": 2,
+    "uniques": 1
   }
 ]
