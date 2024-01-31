@@ -2,8 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 8,
-    "uniques": 4
+    "count": 9,
+    "uniques": 5
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Guess_number/app/src/androidTest/java/com/example/guess_number/ExampleInstrumentedTest.java",
@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Images_work",
+    "title": "Android_projects/Images_work at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application/app",
     "title": "Android_projects/My_first_application/app at main · Valyaevgeorgiy/Android_pr...",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application/app/src",
     "title": "Android_projects/My_first_application/app/src at main · Valyaevgeorgiy/Androi...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application/app/src/main",
-    "title": "Android_projects/My_first_application/app/src/main at main · Valyaevgeorgiy/A...",
     "count": 2,
     "uniques": 1
   }
