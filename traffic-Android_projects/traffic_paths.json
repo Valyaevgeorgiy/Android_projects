@@ -12,16 +12,16 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Guess_number/app/src/androidTest/java/com/example/guess_number/ExampleInstrumentedTest.java",
-    "title": "Android_projects/Guess_number/app/src/androidTest/java/com/example/guess_numb...",
-    "count": 6,
-    "uniques": 3
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src/main",
     "title": "Android_projects/Guess_number/app/src/main at main · Valyaevgeorgiy/Android_p...",
     "count": 5,
     "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Guess_number/app/src/androidTest/java/com/example/guess_number/ExampleInstrumentedTest.java",
+    "title": "Android_projects/Guess_number/app/src/androidTest/java/com/example/guess_numb...",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
