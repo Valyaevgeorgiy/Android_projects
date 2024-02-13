@@ -2,61 +2,61 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
     "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects · Git...",
-    "count": 17,
-    "uniques": 3
+    "count": 13,
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Guess_number/app/src/androidTest/java/com/example/guess_number/ExampleInstrumentedTest.java",
     "title": "Android_projects/Guess_number/app/src/androidTest/java/com/example/guess_numb...",
-    "count": 8,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects",
-    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 7,
-    "uniques": 6
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
-    "title": "Android_projects/ at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 7,
-    "uniques": 3
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src/main",
-    "title": "Android_projects/Guess_number/app/src/main at main · Valyaevgeorgiy/Android_p...",
-    "count": 7,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
-    "title": "Android_projects/My_first_application at main · Valyaevgeorgiy/Android_projec...",
     "count": 6,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app",
-    "title": "Android_projects/Guess_number/app at main · Valyaevgeorgiy/Android_projects ·...",
+    "path": "/Valyaevgeorgiy/Android_projects",
+    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
     "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
+    "title": "Android_projects/ at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 4,
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src/androidTest/java/com/example/guess_number",
-    "title": "Android_projects/Guess_number/app/src/androidTest/java/com/example/guess_numb...",
-    "count": 5,
-    "uniques": 2
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Guess_number/app/src/main/res/drawable/ic_launcher_background.xml",
+    "title": "Android_projects/Guess_number/app/src/main/res/drawable/ic_launcher_backgroun...",
+    "count": 4,
+    "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src/main/java/com/example/guess_number",
-    "title": "Android_projects/Guess_number/app/src/main/java/com/example/guess_number at m...",
-    "count": 5,
-    "uniques": 2
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src/main/res/drawable",
+    "title": "Android_projects/Guess_number/app/src/main/res/drawable at main · Valyaevgeor...",
+    "count": 4,
+    "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app/src/main/res",
-    "title": "Android_projects/Guess_number/app/src/main/res at main · Valyaevgeorgiy/Andro...",
-    "count": 5,
-    "uniques": 2
+    "path": "/Valyaevgeorgiy/Android_projects/blame/main/Guess_number/app/src/androidTest/java/com/example/guess_number/ExampleInstrumentedTest.java",
+    "title": "Blaming Android_projects/Guess_number/app/src/androidTest/java/com/example/gu...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Guess_number/app/src/main/AndroidManifest.xml",
+    "title": "Android_projects/Guess_number/app/src/main/AndroidManifest.xml at main · Valy...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Guess_number/app/src/main/java/com/example/guess_number/MainActivity.java",
+    "title": "Android_projects/Guess_number/app/src/main/java/com/example/guess_number/Main...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Guess_number/app/src/main/res/drawable-v24/ic_launcher_foreground.xml",
+    "title": "Android_projects/Guess_number/app/src/main/res/drawable-v24/ic_launcher_foreg...",
+    "count": 2,
+    "uniques": 1
   }
 ]
