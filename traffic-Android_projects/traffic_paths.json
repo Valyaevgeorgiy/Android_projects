@@ -1,5 +1,11 @@
 [
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
+    "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
+    "count": 8,
+    "uniques": 2
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Doub_window/app/src/androidTest/java/com/example/doub_window/ExampleInstrumentedTest.java",
     "title": "Android_projects/Doub_window/app/src/androidTest/java/com/example/doub_window...",
     "count": 8,
@@ -36,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Images_work",
+    "title": "Android_projects/Images_work at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 6,
+    "uniques": 2
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Doub_window/app/src/main/res/layout/activity_main.xml",
     "title": "Android_projects/Doub_window/app/src/main/res/layout/activity_main.xml at mai...",
     "count": 6,
@@ -44,18 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Doub_window/app/src/main/res/values/colors.xml",
     "title": "Android_projects/Doub_window/app/src/main/res/values/colors.xml at main · Val...",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Doub_window/app/src/main/res/values/strings.xml",
-    "title": "Android_projects/Doub_window/app/src/main/res/values/strings.xml at main · Va...",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Intent_filt/Filter_intent_additional_tasks/app/src/main/java/com/example/filter_intent_additional_tasks/Action_systemActivity.java",
-    "title": "Android_projects/Intent_filt/Filter_intent_additional_tasks/app/src/main/java...",
     "count": 6,
     "uniques": 1
   }
