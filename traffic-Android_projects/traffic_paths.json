@@ -1,19 +1,7 @@
 [
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Images_work",
-    "title": "Android_projects/Images_work at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 6,
-    "uniques": 2
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects",
-    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
     "count": 2,
     "uniques": 2
   },
@@ -21,6 +9,12 @@
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Univ_Navigation",
     "title": "Android_projects/React-Native/Univ_Navigation at main · Valyaevgeorgiy/Androi...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects",
+    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
+    "count": 1,
     "uniques": 1
   }
 ]
