@@ -1,26 +1,62 @@
 [
   {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/java/com/example/notific_on_working/MainActivity.java",
+    "title": "Android_projects/Notific_on_working/app/src/main/java/com/example/notific_on_...",
+    "count": 8,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/res/layout/activity_main.xml",
+    "title": "Android_projects/Notific_on_working/app/src/main/res/layout/activity_main.xml...",
+    "count": 8,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/res/layout/notif_custom.xml",
+    "title": "Android_projects/Notific_on_working/app/src/main/res/layout/notif_custom.xml ...",
+    "count": 8,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/java/com/example/notific_on_working/MyService.java",
+    "title": "Android_projects/Notific_on_working/app/src/main/java/com/example/notific_on_...",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/res/values/strings.xml",
+    "title": "Android_projects/Notific_on_working/app/src/main/res/values/strings.xml at ma...",
+    "count": 6,
+    "uniques": 1
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Music_player_many_songs",
     "title": "Android_projects/Music_player_many_songs at main · Valyaevgeorgiy/Android_pro...",
-    "count": 2,
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/AndroidManifest.xml",
+    "title": "Android_projects/Notific_on_working/app/src/main/AndroidManifest.xml at main ...",
+    "count": 4,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Service_basic",
-    "title": "Android_projects/Service_basic at main · Valyaevgeorgiy/Android_projects · Gi...",
-    "count": 2,
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/res/drawable/ic_launcher_background.xml",
+    "title": "Android_projects/Notific_on_working/app/src/main/res/drawable/ic_launcher_bac...",
+    "count": 4,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects",
-    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 1,
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/res/drawable-v24/ic_launcher_foreground.xml",
+    "title": "Android_projects/Notific_on_working/app/src/main/res/drawable-v24/ic_launcher...",
+    "count": 4,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
-    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 1,
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/res/layout/activity_second.xml",
+    "title": "Android_projects/Notific_on_working/app/src/main/res/layout/activity_second.x...",
+    "count": 4,
     "uniques": 1
   }
 ]
