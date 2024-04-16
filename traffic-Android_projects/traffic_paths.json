@@ -1,62 +1,26 @@
 [
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Notific_on_working",
-    "title": "Android_projects/Notific_on_working at main · Valyaevgeorgiy/Android_projects...",
-    "count": 10,
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
+    "title": "Android_projects/My_first_application at main · Valyaevgeorgiy/Android_projects",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects",
+    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
+    "count": 2,
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Notific_on_working/app/src/main/res",
-    "title": "Android_projects/Notific_on_working/app/src/main/res at main · Valyaevgeorgiy...",
-    "count": 7,
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
+    "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/AndroidManifest.xml",
-    "title": "Android_projects/Notific_on_working/app/src/main/AndroidManifest.xml at main ...",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/java/com/example/notific_on_working/MainActivity.java",
-    "title": "Android_projects/Notific_on_working/app/src/main/java/com/example/notific_on_...",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/res/layout/activity_main.xml",
-    "title": "Android_projects/Notific_on_working/app/src/main/res/layout/activity_main.xml...",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Notific_on_working/app/src/main/res/values/themes.xml",
-    "title": "Android_projects/Notific_on_working/app/src/main/res/values/themes.xml at mai...",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Service_basic/app/src/main/AndroidManifest.xml",
-    "title": "Android_projects/Service_basic/app/src/main/AndroidManifest.xml at main · Val...",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Service_basic/app/src/main/java/com/example/service_basic/MyService.java",
-    "title": "Android_projects/Service_basic/app/src/main/java/com/example/service_basic/My...",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Service_basic/app/src/main/res/values/themes.xml",
-    "title": "Android_projects/Service_basic/app/src/main/res/values/themes.xml at main · V...",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Notific_on_working/app",
-    "title": "Android_projects/Notific_on_working/app at main · Valyaevgeorgiy/Android_proj...",
-    "count": 6,
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Notific_on_working",
+    "title": "Android_projects/Notific_on_working at main · Valyaevgeorgiy/Android_projects...",
+    "count": 2,
     "uniques": 1
   }
 ]
