@@ -1,5 +1,11 @@
 [
   {
+    "path": "/Valyaevgeorgiy/Android_projects",
+    "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Clicker/app/src/main/AndroidManifest.xml",
     "title": "Android_projects/Clicker/app/src/main/AndroidManifest.xml at main · Valyaevge...",
     "count": 3,
@@ -10,12 +16,6 @@
     "title": "Android_projects/Clicker/app/src/main/java/com/example/clicker/MainActivity.j...",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects",
-    "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Sec_app_layouts/app/src/main/AndroidManifest.xml",
