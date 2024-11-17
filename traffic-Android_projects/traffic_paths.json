@@ -2,14 +2,20 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 8,
-    "uniques": 8
+    "count": 10,
+    "uniques": 9
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
     "title": "Android_projects/My_first_application at main · Valyaevgeorgiy/Android_projec...",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
+    "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects · Git...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main",
@@ -50,12 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/BroadcastWorks",
     "title": "Android_projects/BroadcastWorks at main · Valyaevgeorgiy/Android_projects · G...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
-    "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects",
     "count": 1,
     "uniques": 1
   }
