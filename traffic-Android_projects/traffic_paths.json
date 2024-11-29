@@ -2,14 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 6,
+    "count": 5,
     "uniques": 5
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
-    "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects · Git...",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
@@ -26,6 +20,12 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github/workflows",
     "title": "Android_projects/.github/workflows at main · Valyaevgeorgiy/Android_projects ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
+    "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects · Git...",
     "count": 1,
     "uniques": 1
   },
