@@ -2,8 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 17,
-    "uniques": 11
+    "count": 13,
+    "uniques": 10
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
@@ -24,14 +24,20 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Images_work",
-    "title": "Android_projects/Images_work at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 2,
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github/workflows",
+    "title": "Android_projects/.github/workflows at main · Valyaevgeorgiy/Android_projects ...",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github/workflows",
-    "title": "Android_projects/.github/workflows at main · Valyaevgeorgiy/Android_projects ...",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Images_work",
+    "title": "Android_projects/Images_work at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
+    "title": "Android_projects/Main_menu at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 1,
     "uniques": 1
   },
