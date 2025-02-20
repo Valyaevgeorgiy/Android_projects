@@ -2,12 +2,18 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 10,
-    "uniques": 9
+    "count": 11,
+    "uniques": 10
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
     "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
+    "title": "Android_projects/Main_menu at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -30,6 +36,12 @@
     "uniques": 1
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Main_menu/README.md",
+    "title": "Android_projects/Main_menu/README.md at main · Valyaevgeorgiy/Android_project...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Compo_iOS_Android/app.json",
     "title": "Android_projects/React-Native/Compo_iOS_Android/app.json at main · Valyaevgeo...",
     "count": 1,
@@ -44,18 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src",
     "title": "Android_projects/Clicker/app/src at main · Valyaevgeorgiy/Android_projects",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src/androidTest/java/com/example/clicker",
-    "title": "Android_projects/Clicker/app/src/androidTest/java/com/example/clicker at main...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src/main",
-    "title": "Android_projects/Clicker/app/src/main at main · Valyaevgeorgiy/Android_projects",
     "count": 1,
     "uniques": 1
   }
