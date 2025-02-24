@@ -1,12 +1,12 @@
 [
   {
-    "referrer": "chatgpt.com",
-    "count": 15,
-    "uniques": 2
+    "referrer": "Google",
+    "count": 21,
+    "uniques": 10
   },
   {
-    "referrer": "Google",
-    "count": 13,
-    "uniques": 7
+    "referrer": "chatgpt.com",
+    "count": 11,
+    "uniques": 1
   }
 ]
