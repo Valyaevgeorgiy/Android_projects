@@ -2,20 +2,14 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 21,
-    "uniques": 10
+    "count": 19,
+    "uniques": 8
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
     "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects · Git...",
     "count": 6,
     "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
-    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects ...",
-    "count": 5,
-    "uniques": 3
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
@@ -36,10 +30,10 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
-    "title": "Android_projects/My_first_application at main · Valyaevgeorgiy/Android_projects",
-    "count": 3,
-    "uniques": 3
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
+    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects ...",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts",
@@ -54,8 +48,14 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/%D0%A1%D0%B5%D0%BC_%D0%BF%D0%BE_%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%BA%D0%B5__RN_altern_idle.pdf",
-    "title": "Android_projects/Methodics_reports/Сем_по_мобилке__RN_altern_idle.pdf at main...",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
+    "title": "Android_projects/My_first_application at main · Valyaevgeorgiy/Android_projec...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android",
+    "title": "Android_projects/React-Native/Compo_iOS_Android at main · Valyaevgeorgiy/Andr...",
     "count": 2,
     "uniques": 2
   }
