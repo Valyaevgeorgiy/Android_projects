@@ -2,8 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 16,
-    "uniques": 6
+    "count": 17,
+    "uniques": 7
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
@@ -12,22 +12,22 @@
     "uniques": 1
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
+    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
+    "count": 5,
+    "uniques": 3
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
     "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 4,
     "uniques": 3
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
-    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Sec_app_layouts/gradle/wrapper/gradle-wrapper.jar",
-    "title": "Android_projects/Sec_app_layouts/gradle/wrapper/gradle-wrapper.jar at main · ...",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
+    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects ...",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app",
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blame/main/Sec_app_layouts/gradle/wrapper/gradle-wrapper.jar",
-    "title": "Blaming Android_projects/Sec_app_layouts/gradle/wrapper/gradle-wrapper.jar at...",
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Guess_number/app/.gitignore",
+    "title": "Android_projects/Guess_number/app/.gitignore at main · Valyaevgeorgiy/Android...",
     "count": 1,
     "uniques": 1
   }
