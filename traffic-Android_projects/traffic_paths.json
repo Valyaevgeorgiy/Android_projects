@@ -1,9 +1,9 @@
 [
   {
     "path": "/Valyaevgeorgiy/Android_projects",
-    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 8,
-    "uniques": 5
+    "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
+    "count": 9,
+    "uniques": 6
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
@@ -18,6 +18,12 @@
     "uniques": 2
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Images_work",
+    "title": "Android_projects/Images_work at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu/app",
     "title": "Android_projects/Main_menu/app at main · Valyaevgeorgiy/Android_projects · Gi...",
     "count": 2,
@@ -27,6 +33,12 @@
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu/.idea",
     "title": "Android_projects/Main_menu/.idea at main · Valyaevgeorgiy/Android_projects · ...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Images_work/app/src/main/res/layout/activity_my_notes.xml",
+    "title": "Android_projects/Images_work/app/src/main/res/layout/activity_my_notes.xml at...",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -44,18 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
     "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Doub_window",
-    "title": "Android_projects/Doub_window at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Images_work",
-    "title": "Android_projects/Images_work at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 1,
     "uniques": 1
   }
