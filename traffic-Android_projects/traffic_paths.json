@@ -6,6 +6,12 @@
     "uniques": 10
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts",
+    "title": "Android_projects/Sec_app_layouts at main · Valyaevgeorgiy/Android_projects · ...",
+    "count": 7,
+    "uniques": 2
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
     "title": "Android_projects/Main_menu at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 6,
@@ -14,6 +20,12 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Images_work",
     "title": "Android_projects/Images_work at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
+    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects ...",
     "count": 2,
     "uniques": 2
   },
@@ -36,27 +48,15 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts",
-    "title": "Android_projects/Sec_app_layouts at main · Valyaevgeorgiy/Android_projects",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts/app",
+    "title": "Android_projects/Sec_app_layouts/app at main · Valyaevgeorgiy/Android_project...",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Images_work/app/src/main/res/layout/activity_my_notes.xml",
-    "title": "Android_projects/Images_work/app/src/main/res/layout/activity_my_notes.xml at...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Main_menu/README.md",
-    "title": "Android_projects/Main_menu/README.md at main · Valyaevgeorgiy/Android_project...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Images_work/app",
-    "title": "Android_projects/Images_work/app at main · Valyaevgeorgiy/Android_projects",
-    "count": 1,
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts/app/src/main",
+    "title": "Android_projects/Sec_app_layouts/app/src/main at main · Valyaevgeorgiy/Androi...",
+    "count": 2,
     "uniques": 1
   }
 ]
