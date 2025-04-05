@@ -2,8 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 12,
-    "uniques": 7
+    "count": 17,
+    "uniques": 9
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts",
@@ -14,6 +14,12 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
     "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
+    "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects · Git...",
     "count": 2,
     "uniques": 2
   },
@@ -48,14 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
-    "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects · Git...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/.idea",
-    "title": "Android_projects/Guess_number/.idea at main · Valyaevgeorgiy/Android_projects...",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/BroadcastWorks",
+    "title": "Android_projects/BroadcastWorks at main · Valyaevgeorgiy/Android_projects · G...",
     "count": 1,
     "uniques": 1
   }
