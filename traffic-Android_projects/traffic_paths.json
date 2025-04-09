@@ -2,12 +2,30 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 14,
+    "count": 17,
     "uniques": 7
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
     "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
+    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects ...",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
+    "title": "Android_projects/My_first_application at main · Valyaevgeorgiy/Android_projects",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
+    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
     "count": 2,
     "uniques": 2
   },
@@ -18,44 +36,26 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
-    "title": "Android_projects/ at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D1%82%D1%87%D1%91%D1%82_%D0%92%D0%B0%D0%BB%D1%8F%D0%B5%D0%B2.pdf",
+    "title": "Android_projects/Methodics_reports/Контрольная_отчёт_Валяев.pdf at main · Val...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Clicker/build.gradle",
+    "title": "Android_projects/Clicker/build.gradle at main · Valyaevgeorgiy/Android_projec...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/BroadcastWorks",
-    "title": "Android_projects/BroadcastWorks at main · Valyaevgeorgiy/Android_projects · G...",
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Clicker/gradle.properties",
+    "title": "Android_projects/Clicker/gradle.properties at main · Valyaevgeorgiy/Android_p...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github/workflows",
-    "title": "Android_projects/.github/workflows at main · Valyaevgeorgiy/Android_projects ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/.idea",
-    "title": "Android_projects/Guess_number/.idea at main · Valyaevgeorgiy/Android_projects...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Health_test_update_version",
-    "title": "Android_projects/Health_test_update_version at main · Valyaevgeorgiy/Android_...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt",
-    "title": "Android_projects/Intent_filt at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt/Filter_intent_additional_tasks",
-    "title": "Android_projects/Intent_filt/Filter_intent_additional_tasks at main · Valyaev...",
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Clicker/gradlew",
+    "title": "Android_projects/Clicker/gradlew at main · Valyaevgeorgiy/Android_projects · ...",
     "count": 1,
     "uniques": 1
   }
