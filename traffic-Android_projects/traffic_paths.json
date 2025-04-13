@@ -2,8 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 19,
-    "uniques": 7
+    "count": 21,
+    "uniques": 9
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
@@ -36,6 +36,12 @@
     "uniques": 2
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/BroadcastWorks",
+    "title": "Android_projects/BroadcastWorks at main · Valyaevgeorgiy/Android_projects · G...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/.idea",
     "title": "Android_projects/Guess_number/.idea at main · Valyaevgeorgiy/Android_projects...",
     "count": 2,
@@ -51,12 +57,6 @@
     "path": "/Valyaevgeorgiy/Android_projects/upload/main/Guess_number",
     "title": "Upload files · Valyaevgeorgiy/Android_projects",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Clicker/build.gradle",
-    "title": "Android_projects/Clicker/build.gradle at main · Valyaevgeorgiy/Android_projec...",
-    "count": 1,
     "uniques": 1
   }
 ]
