@@ -2,8 +2,26 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 9,
-    "uniques": 8
+    "count": 11,
+    "uniques": 9
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
+    "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
+    "title": "Android_projects/ at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
+    "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects · Git...",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
@@ -12,32 +30,32 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/BroadcastWorks",
-    "title": "Android_projects/BroadcastWorks at main · Valyaevgeorgiy/Android_projects · G...",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/app",
+    "title": "Android_projects/Guess_number/app at main · Valyaevgeorgiy/Android_projects ·...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/actions",
+    "title": "Workflow runs · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
-    "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "path": "/Valyaevgeorgiy/Android_projects/issues",
+    "title": "GitHub · Where software is built",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
-    "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects · Git...",
+    "path": "/Valyaevgeorgiy/Android_projects/pulls",
+    "title": "Pull requests · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Hello_world",
-    "title": "Android_projects/React-Native/Hello_world at main · Valyaevgeorgiy/Android_pr...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Hello_world/assets",
-    "title": "Android_projects/React-Native/Hello_world/assets at main · Valyaevgeorgiy/And...",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app",
+    "title": "Android_projects/Clicker/app at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 1,
     "uniques": 1
   }
