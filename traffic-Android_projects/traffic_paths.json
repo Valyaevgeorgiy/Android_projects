@@ -2,14 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 12,
-    "uniques": 8
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
-    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects ...",
-    "count": 3,
-    "uniques": 2
+    "count": 11,
+    "uniques": 7
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
@@ -21,12 +15,6 @@
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Context_menu",
     "title": "Android_projects/Context_menu at main · Valyaevgeorgiy/Android_projects · Git...",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/%D0%A1%D0%B5%D0%BC_%D0%BF%D0%BE_%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%BA%D0%B5__RN_altern_idle.pdf",
-    "title": "Android_projects/Methodics_reports/Сем_по_мобилке__RN_altern_idle.pdf at main...",
-    "count": 1,
     "uniques": 1
   },
   {
@@ -48,14 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/My_first_application/README.md",
-    "title": "Android_projects/My_first_application/README.md at main · Valyaevgeorgiy/Andr...",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github",
+    "title": "Android_projects/.github at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/README.md",
-    "title": "Android_projects/README.md at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github/workflows",
+    "title": "Android_projects/.github/workflows at main · Valyaevgeorgiy/Android_projects ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt",
+    "title": "Android_projects/Intent_filt at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
+    "title": "Android_projects/Main_menu at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 1,
     "uniques": 1
   }
