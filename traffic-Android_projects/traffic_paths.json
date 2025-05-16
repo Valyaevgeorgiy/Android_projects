@@ -1,8 +1,8 @@
 [
   {
     "path": "/Valyaevgeorgiy/Android_projects",
-    "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 12,
+    "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
+    "count": 10,
     "uniques": 8
   },
   {
@@ -36,26 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github",
-    "title": "Android_projects/.github at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github/workflows",
-    "title": "Android_projects/.github/workflows at main · Valyaevgeorgiy/Android_projects ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt",
     "title": "Android_projects/Intent_filt at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
-    "title": "Android_projects/Main_menu at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
+    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Music_player_many_songs",
+    "title": "Android_projects/Music_player_many_songs at main · Valyaevgeorgiy/Android_pro...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Music_player_many_songs/app",
+    "title": "Android_projects/Music_player_many_songs/app at main · Valyaevgeorgiy/Android...",
     "count": 1,
     "uniques": 1
   }
