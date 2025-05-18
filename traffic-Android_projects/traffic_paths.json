@@ -2,14 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 10,
-    "uniques": 8
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
-    "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 3,
-    "uniques": 2
+    "count": 8,
+    "uniques": 7
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Context_menu",
@@ -36,8 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Intent_filt",
-    "title": "Android_projects/Intent_filt at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
+    "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +50,12 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Music_player_many_songs/app",
     "title": "Android_projects/Music_player_many_songs/app at main · Valyaevgeorgiy/Android...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Music_player_many_songs/app/src",
+    "title": "Android_projects/Music_player_many_songs/app/src at main · Valyaevgeorgiy/And...",
     "count": 1,
     "uniques": 1
   }
