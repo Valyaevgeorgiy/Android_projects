@@ -2,20 +2,14 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 8,
-    "uniques": 5
+    "count": 7,
+    "uniques": 4
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
     "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 4,
     "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
-    "title": "Android_projects/Main_menu at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/commit/f771c086dbcab6602f95ddd3d5266342599d08fb",
@@ -50,6 +44,12 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
     "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects · Git...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
+    "title": "Android_projects/Main_menu at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 1,
     "uniques": 1
   },
