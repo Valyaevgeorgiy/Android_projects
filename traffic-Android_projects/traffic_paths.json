@@ -2,14 +2,44 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные работы п...",
-    "count": 6,
-    "uniques": 6
+    "count": 8,
+    "uniques": 8
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
     "title": "Android_projects/My_first_application at main · Valyaevgeorgiy/Android_projec...",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
+    "title": "Android_projects/Main_menu at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts",
+    "title": "Android_projects/Sec_app_layouts at main · Valyaevgeorgiy/Android_projects · ...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Sec_app_layouts/.idea/.gitignore",
+    "title": "Android_projects/Sec_app_layouts/.idea at main · Valyaevgeorgiy/Android_proje...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Sec_app_layouts/.idea/compiler.xml",
+    "title": "Android_projects/Sec_app_layouts/.idea at main · Valyaevgeorgiy/Android_proje...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Sec_app_layouts/.idea/gradle.xml",
+    "title": "Android_projects/Sec_app_layouts/.idea at main · Valyaevgeorgiy/Android_proje...",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/issues",
@@ -24,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
-    "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github",
+    "title": "Android_projects/BroadcastWorks at main · Valyaevgeorgiy/Android_projects · G...",
     "count": 1,
     "uniques": 1
   }
