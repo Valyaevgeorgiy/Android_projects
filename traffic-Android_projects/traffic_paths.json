@@ -14,14 +14,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts",
     "title": "Android_projects/Sec_app_layouts at main · Valyaevgeorgiy/Android_projects · ...",
-    "count": 6,
-    "uniques": 5
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
-    "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_altern_idle.pdf",
@@ -30,8 +24,14 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github/workflows",
-    "title": "Android_projects/.github at main · Valyaevgeorgiy/Android_projects · GitHub",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
+    "title": "Android_projects/My_first_application at main · Valyaevgeorgiy/Android_projec...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
+    "title": "Android_projects/Clicker at main · Valyaevgeorgiy/Android_projects · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -42,12 +42,6 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
-    "title": "Android_projects/My_first_application at main · Valyaevgeorgiy/Android_projec...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_animations.pdf",
     "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects ...",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__main_menu_.pdf",
     "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Compo_iOS_Android/README.md",
+    "title": "Android_projects/React-Native/Compo_iOS_Android at main · Valyaevgeorgiy/Andr...",
     "count": 1,
     "uniques": 1
   }
