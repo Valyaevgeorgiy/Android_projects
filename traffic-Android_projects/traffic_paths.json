@@ -2,13 +2,19 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "GitHub - Valyaevgeorgiy/Android_projects: Все мои практические и лабораторные...",
-    "count": 7,
-    "uniques": 7
+    "count": 8,
+    "uniques": 8
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
     "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Контрольная_отчёт_Валяев.pdf",
+    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects ...",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -21,6 +27,12 @@
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Hello_world",
     "title": "Android_projects/React-Native/Hello_world at main · Valyaevgeorgiy/Android_pr...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_altern_idle.pdf",
+    "title": "Android_projects/Methodics_reports at main · Valyaevgeorgiy/Android_projects ...",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -44,18 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number/gradle/wrapper",
     "title": "Android_projects/Guess_number at main · Valyaevgeorgiy/Android_projects",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Health_test",
-    "title": "Android_projects/Health_test at main · Valyaevgeorgiy/Android_projects · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
-    "title": "Android_projects/My_first_application at main · Valyaevgeorgiy/Android_projec...",
     "count": 1,
     "uniques": 1
   }
