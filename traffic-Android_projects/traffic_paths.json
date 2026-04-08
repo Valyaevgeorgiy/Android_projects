@@ -2,14 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 13,
-    "uniques": 12
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
-    "title": "/tree/main/My_first_application",
-    "count": 3,
-    "uniques": 3
+    "count": 12,
+    "uniques": 11
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Контрольная_отчёт_Валяев.pdf",
@@ -24,16 +18,10 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts",
-    "title": "/tree/main/Sec_app_layouts",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
+    "title": "/tree/main/My_first_application",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Hello_world",
-    "title": "/tree/main/React-Native/Hello_world",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_altern_idle.pdf",
@@ -56,6 +44,18 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
     "title": "/tree/main/Guess_number",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts",
+    "title": "/tree/main/Sec_app_layouts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity",
+    "title": "/tree/main/View_activity",
     "count": 1,
     "uniques": 1
   }
