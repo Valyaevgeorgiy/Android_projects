@@ -2,8 +2,14 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 13,
-    "uniques": 11
+    "count": 16,
+    "uniques": 10
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
+    "title": "/tree/main/Main_menu",
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
@@ -18,9 +24,9 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
-    "title": "/tree/main/Main_menu",
-    "count": 2,
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Clicker/README.md",
+    "title": "/blob/main/Clicker/README.md",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -36,26 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/commit/4811bf8ea10ee3d7bf390ff33b3b6bd24d7fc329",
-    "title": "/commit/4811bf8ea10ee3d7bf390ff33b3b6bd24d7fc329",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main",
     "title": "/tree/main",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github/workflows",
-    "title": "/tree/main/.github/workflows",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
+    "title": "/tree/main/Clicker",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Context_menu",
-    "title": "/tree/main/Context_menu",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app",
+    "title": "/tree/main/Clicker/app",
     "count": 1,
     "uniques": 1
   }
