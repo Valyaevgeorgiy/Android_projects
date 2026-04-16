@@ -2,13 +2,31 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 23,
+    "count": 25,
     "uniques": 13
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
     "title": "/tree/main/Main_menu",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
+    "title": "/tree/main/Clicker",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app",
+    "title": "/tree/main/Clicker/app",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src",
+    "title": "/tree/main/Clicker/app/src",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -38,24 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main",
     "title": "/tree/main",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
-    "title": "/tree/main/Clicker",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app",
-    "title": "/tree/main/Clicker/app",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src",
-    "title": "/tree/main/Clicker/app/src",
     "count": 1,
     "uniques": 1
   }
