@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/pulls",
+    "title": "/pulls",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main",
     "title": "/tree/main",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src/main",
     "title": "/tree/main/Clicker/app/src/main",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src/main/java/com/example/clicker",
-    "title": "/tree/main/Clicker/app/src/main/java/com/example/clicker",
     "count": 1,
     "uniques": 1
   }
