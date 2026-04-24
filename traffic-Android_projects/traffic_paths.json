@@ -2,14 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 26,
-    "uniques": 10
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
-    "title": "/tree/main/Main_menu",
-    "count": 3,
-    "uniques": 2
+    "count": 23,
+    "uniques": 9
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
@@ -36,26 +30,26 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Main_menu/.idea/deploymentTargetDropDown.xml",
-    "title": "/blob/main/Main_menu/.idea/deploymentTargetDropDown.xml",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/pulls",
     "title": "/pulls",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
-    "title": "/tree/main",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src/main",
+    "title": "/tree/main/Clicker/app/src/main",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src/main",
-    "title": "/tree/main/Clicker/app/src/main",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker/app/src/main/java/com/example/clicker",
+    "title": "/tree/main/Clicker/app/src/main/java/com/example/clicker",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Main_menu",
+    "title": "/tree/main/Main_menu",
     "count": 1,
     "uniques": 1
   }
