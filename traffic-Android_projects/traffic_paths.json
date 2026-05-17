@@ -6,16 +6,16 @@
     "uniques": 4
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/pulls",
-    "title": "/pulls",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/issues",
     "title": "/issues",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/pulls",
+    "title": "/pulls",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity",
