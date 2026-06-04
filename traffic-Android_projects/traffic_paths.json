@@ -2,14 +2,38 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 5,
-    "uniques": 5
+    "count": 7,
+    "uniques": 6
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/actions",
     "title": "/actions",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/issues",
+    "title": "/issues",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
+    "title": "/tree/main/Clicker",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/projects",
+    "title": "/projects",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/pulls",
+    "title": "/pulls",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Guess_number",
