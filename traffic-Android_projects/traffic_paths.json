@@ -6,16 +6,16 @@
     "uniques": 4
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/actions",
-    "title": "/actions",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/issues",
     "title": "/issues",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/actions",
+    "title": "/actions",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
