@@ -12,15 +12,15 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/actions",
-    "title": "/actions",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
     "title": "/tree/main/Clicker",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/actions",
+    "title": "/actions",
+    "count": 1,
     "uniques": 1
   },
   {
