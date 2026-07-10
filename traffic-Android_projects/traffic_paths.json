@@ -1,50 +1,62 @@
 [
   {
-    "path": "/Valyaevgeorgiy/Android_projects",
-    "title": "Overview",
-    "count": 1,
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts",
+    "title": "/tree/main/Sec_app_layouts",
+    "count": 5,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/README.md",
-    "title": "/blob/main/Methodics_reports/README.md",
-    "count": 1,
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts/.idea",
+    "title": "/tree/main/Sec_app_layouts/.idea",
+    "count": 4,
     "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects",
+    "title": "Overview",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Контрольная_отчёт_Валяев.pdf",
     "title": "/blob/main/Methodics_reports/Контрольная_отчёт_Валяев.pdf",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_altern_idle.pdf",
     "title": "/blob/main/Methodics_reports/Сем_по_мобилке__RN_altern_idle.pdf",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_animations.pdf",
-    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__RN_animations.pdf",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_flex.pdf",
-    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__RN_flex.pdf",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_hello_world.pdf",
-    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__RN_hello_world.pdf",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
     "title": "/tree/main/Methodics_reports",
-    "count": 1,
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Sec_app_layouts/.idea/.gitignore",
+    "title": "/blob/main/Sec_app_layouts/.idea/.gitignore",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Sec_app_layouts/.idea/compiler.xml",
+    "title": "/blob/main/Sec_app_layouts/.idea/compiler.xml",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/commits",
+    "title": "/commits",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
+    "title": "/tree/main",
+    "count": 2,
     "uniques": 1
   }
 ]
