@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "path": "/Valyaevgeorgiy/Android_projects",
+    "title": "Overview",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
+    "title": "/tree/main/My_first_application",
+    "count": 1,
+    "uniques": 1
+  }
+]
