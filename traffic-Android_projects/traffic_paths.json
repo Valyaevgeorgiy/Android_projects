@@ -2,12 +2,24 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
     "title": "/tree/main/My_first_application",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__beginning_.pdf",
+    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__beginning_.pdf",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
+    "title": "/tree/main/Methodics_reports",
     "count": 1,
     "uniques": 1
   }
