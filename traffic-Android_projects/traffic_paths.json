@@ -2,14 +2,20 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
     "title": "/tree/main/Methodics_reports",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity",
+    "title": "/tree/main/View_activity",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Контрольная_отчёт_Валяев.pdf",
@@ -42,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Images_work",
-    "title": "/tree/main/Images_work",
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/.gitignore",
+    "title": "/blob/main/View_activity/.gitignore",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
-    "title": "/tree/main/My_first_application",
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/.idea/deploymentTargetDropDown.xml",
+    "title": "/blob/main/View_activity/.idea/deploymentTargetDropDown.xml",
     "count": 1,
     "uniques": 1
   }
