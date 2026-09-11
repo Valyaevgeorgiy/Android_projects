@@ -6,6 +6,12 @@
     "uniques": 4
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/build.gradle",
+    "title": "/blob/main/View_activity/build.gradle",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
     "title": "/tree/main/Methodics_reports",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/.gitignore",
     "title": "/blob/main/View_activity/.gitignore",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/.idea/deploymentTargetDropDown.xml",
-    "title": "/blob/main/View_activity/.idea/deploymentTargetDropDown.xml",
     "count": 1,
     "uniques": 1
   }
