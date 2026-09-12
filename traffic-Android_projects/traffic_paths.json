@@ -2,8 +2,20 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
+    "title": "/tree/main/Methodics_reports",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__work_service.pdf",
+    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__work_service.pdf",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/build.gradle",
@@ -12,10 +24,10 @@
     "uniques": 2
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
-    "title": "/tree/main/Methodics_reports",
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android",
+    "title": "/tree/main/React-Native/Compo_iOS_Android",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity",
@@ -42,20 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__beginning_.pdf",
-    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__beginning_.pdf",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__work_service.pdf",
-    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__work_service.pdf",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/.gitignore",
-    "title": "/blob/main/View_activity/.gitignore",
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_reg_form.pdf",
+    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__RN_reg_form.pdf",
     "count": 1,
     "uniques": 1
   }
