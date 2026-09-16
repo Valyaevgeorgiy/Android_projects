@@ -2,8 +2,14 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 5,
-    "uniques": 5
+    "count": 7,
+    "uniques": 6
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
+    "title": "/tree/main/Clicker",
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
@@ -12,8 +18,20 @@
     "uniques": 3
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
+    "title": "/tree/main/My_first_application",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__work_service.pdf",
     "title": "/blob/main/Methodics_reports/Сем_по_мобилке__work_service.pdf",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/README.md",
+    "title": "/blob/main/View_activity/README.md",
     "count": 2,
     "uniques": 2
   },
@@ -38,24 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Контрольная_отчёт_Валяев.pdf",
     "title": "/blob/main/Methodics_reports/Контрольная_отчёт_Валяев.pdf",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_altern_idle.pdf",
-    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__RN_altern_idle.pdf",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_hello_world.pdf",
-    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__RN_hello_world.pdf",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_reg_form.pdf",
-    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__RN_reg_form.pdf",
     "count": 1,
     "uniques": 1
   }
