@@ -8,19 +8,7 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
     "title": "/tree/main/Clicker",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
-    "title": "/tree/main/Methodics_reports",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
-    "title": "/tree/main/My_first_application",
-    "count": 3,
+    "count": 5,
     "uniques": 2
   },
   {
@@ -40,6 +28,18 @@
     "title": "/blob/main/View_activity/build.gradle",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
+    "title": "/tree/main/Methodics_reports",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
+    "title": "/tree/main/My_first_application",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android",
