@@ -2,13 +2,19 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 7,
-    "uniques": 6
+    "count": 8,
+    "uniques": 7
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
     "title": "/tree/main/Clicker",
     "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/.idea/deploymentTargetDropDown.xml",
+    "title": "/blob/main/View_activity/.idea/deploymentTargetDropDown.xml",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -50,12 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__main_menu_.pdf",
     "title": "/blob/main/Methodics_reports/Сем_по_мобилке__main_menu_.pdf",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__music_player_songs.pdf",
-    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__music_player_songs.pdf",
     "count": 1,
     "uniques": 1
   }
