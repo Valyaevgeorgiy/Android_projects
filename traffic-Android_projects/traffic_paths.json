@@ -2,8 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 8,
-    "uniques": 7
+    "count": 10,
+    "uniques": 9
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
@@ -30,6 +30,12 @@
     "uniques": 2
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts",
+    "title": "/tree/main/Sec_app_layouts",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
     "title": "/tree/main/My_first_application",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_reg_form.pdf",
     "title": "/blob/main/Methodics_reports/Сем_по_мобилке__RN_reg_form.pdf",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__main_menu_.pdf",
-    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__main_menu_.pdf",
     "count": 1,
     "uniques": 1
   }
