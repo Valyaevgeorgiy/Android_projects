@@ -30,6 +30,12 @@
     "uniques": 2
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/gradlew.bat",
+    "title": "/blob/main/View_activity/gradlew.bat",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts",
     "title": "/tree/main/Sec_app_layouts",
     "count": 2,
@@ -51,12 +57,6 @@
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity",
     "title": "/tree/main/View_activity",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_reg_form.pdf",
-    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__RN_reg_form.pdf",
-    "count": 1,
     "uniques": 1
   }
 ]
