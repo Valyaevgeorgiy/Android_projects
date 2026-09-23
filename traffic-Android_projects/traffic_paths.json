@@ -30,6 +30,12 @@
     "uniques": 2
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/gradle.properties",
+    "title": "/blob/main/View_activity/gradle.properties",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/gradlew.bat",
     "title": "/blob/main/View_activity/gradlew.bat",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android",
     "title": "/tree/main/React-Native/Compo_iOS_Android",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/View_activity",
-    "title": "/tree/main/View_activity",
     "count": 2,
     "uniques": 1
   }
