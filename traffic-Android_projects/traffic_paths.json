@@ -2,43 +2,13 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 10,
-    "uniques": 9
+    "count": 9,
+    "uniques": 8
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Clicker",
     "title": "/tree/main/Clicker",
     "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/.idea/deploymentTargetDropDown.xml",
-    "title": "/blob/main/View_activity/.idea/deploymentTargetDropDown.xml",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/README.md",
-    "title": "/blob/main/View_activity/README.md",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/build.gradle",
-    "title": "/blob/main/View_activity/build.gradle",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/gradle.properties",
-    "title": "/blob/main/View_activity/gradle.properties",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/gradlew.bat",
-    "title": "/blob/main/View_activity/gradlew.bat",
-    "count": 2,
     "uniques": 2
   },
   {
@@ -57,6 +27,36 @@
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android",
     "title": "/tree/main/React-Native/Compo_iOS_Android",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_reg_form.pdf",
+    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__RN_reg_form.pdf",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__main_menu_.pdf",
+    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__main_menu_.pdf",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__music_player_songs.pdf",
+    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__music_player_songs.pdf",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__work_images.pdf",
+    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__work_images.pdf",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__work_service.pdf",
+    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__work_service.pdf",
+    "count": 1,
     "uniques": 1
   }
 ]
