@@ -1,17 +1,5 @@
 [
   {
-    "path": "/Valyaevgeorgiy/Android_projects",
-    "title": "Overview",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Sec_app_layouts/README.md",
-    "title": "/blob/main/Sec_app_layouts/README.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/gradle.properties",
     "title": "/blob/main/View_activity/gradle.properties",
     "count": 1,
@@ -20,18 +8,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/gradlew.bat",
     "title": "/blob/main/View_activity/gradlew.bat",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts",
-    "title": "/tree/main/Sec_app_layouts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Sec_app_layouts/.idea",
-    "title": "/tree/main/Sec_app_layouts/.idea",
     "count": 1,
     "uniques": 1
   }
