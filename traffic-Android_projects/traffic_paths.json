@@ -2,8 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 6,
-    "uniques": 5
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main",
@@ -12,27 +12,9 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github/workflows",
-    "title": "/tree/main/.github/workflows",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/.github/workflows/workflow.yml",
-    "title": "/blob/main/.github/workflows/workflow.yml",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
     "title": "/tree/main/Methodics_reports",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/blame/main/.github/workflows/workflow.yml",
-    "title": "/blame/main/.github/workflows/workflow.yml",
-    "count": 1,
     "uniques": 1
   },
   {
@@ -48,6 +30,12 @@
     "uniques": 1
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github/workflows",
+    "title": "/tree/main/.github/workflows",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/BroadcastWorks",
     "title": "/tree/main/BroadcastWorks",
     "count": 1,
@@ -56,6 +44,18 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Context_menu",
     "title": "/tree/main/Context_menu",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android",
+    "title": "/tree/main/React-Native/Compo_iOS_Android",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Main_comps",
+    "title": "/tree/main/React-Native/Main_comps",
     "count": 1,
     "uniques": 1
   }
