@@ -30,6 +30,12 @@
     "uniques": 1
   },
   {
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__beginning_.pdf",
+    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__beginning_.pdf",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/.github/workflows",
     "title": "/tree/main/.github/workflows",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Compo_iOS_Android",
     "title": "/tree/main/React-Native/Compo_iOS_Android",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Main_comps",
-    "title": "/tree/main/React-Native/Main_comps",
     "count": 1,
     "uniques": 1
   }
