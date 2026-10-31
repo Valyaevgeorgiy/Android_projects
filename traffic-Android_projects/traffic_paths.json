@@ -2,8 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 3,
-    "uniques": 3
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__RN_reg_form.pdf",
@@ -14,6 +14,18 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__beginning_.pdf",
     "title": "/blob/main/Methodics_reports/Сем_по_мобилке__beginning_.pdf",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/BroadcastWorks",
+    "title": "/tree/main/BroadcastWorks",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
+    "title": "/tree/main/My_first_application",
     "count": 1,
     "uniques": 1
   },
