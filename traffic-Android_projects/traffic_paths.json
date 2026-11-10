@@ -2,18 +2,18 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 6,
-    "uniques": 5
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
-    "title": "/tree/main/Methodics_reports",
-    "count": 2,
-    "uniques": 2
+    "count": 7,
+    "uniques": 6
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
     "title": "/tree/main/My_first_application",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main/Methodics_reports",
+    "title": "/tree/main/Methodics_reports",
     "count": 2,
     "uniques": 2
   },
@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/Methodics_reports/Сем_по_мобилке__beginning_.pdf",
-    "title": "/blob/main/Methodics_reports/Сем_по_мобилке__beginning_.pdf",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/React-Native/Hello_world/README.md",
     "title": "/blob/main/React-Native/Hello_world/README.md",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/build.gradle",
     "title": "/blob/main/View_activity/build.gradle",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
+    "title": "/tree/main",
     "count": 1,
     "uniques": 1
   }
