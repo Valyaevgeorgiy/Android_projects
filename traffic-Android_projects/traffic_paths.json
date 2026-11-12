@@ -2,8 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 8,
-    "uniques": 7
+    "count": 10,
+    "uniques": 8
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/build.gradle",
-    "title": "/blob/main/View_activity/build.gradle",
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/.idea/deploymentTargetDropDown.xml",
+    "title": "/blob/main/View_activity/.idea/deploymentTargetDropDown.xml",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main",
-    "title": "/tree/main",
+    "path": "/Valyaevgeorgiy/Android_projects/blob/main/View_activity/build.gradle",
+    "title": "/blob/main/View_activity/build.gradle",
     "count": 1,
     "uniques": 1
   }
