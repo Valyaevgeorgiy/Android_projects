@@ -2,8 +2,8 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects",
     "title": "Overview",
-    "count": 7,
-    "uniques": 6
+    "count": 6,
+    "uniques": 5
   },
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/My_first_application",
@@ -38,12 +38,6 @@
   {
     "path": "/Valyaevgeorgiy/Android_projects/tree/main/Music_player_many_songs",
     "title": "/tree/main/Music_player_many_songs",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Valyaevgeorgiy/Android_projects/tree/main/React-Native/Basic_styles",
-    "title": "/tree/main/React-Native/Basic_styles",
     "count": 1,
     "uniques": 1
   }
